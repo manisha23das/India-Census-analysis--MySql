@@ -21,6 +21,7 @@ East Godavari	             Andhra Pradesh	               0.05	    1,006.00	70.99
 #### Dataset2 (Sample Rows)
 
 District	      State	       Area_km2	  Population
+
 Adilabad	   Andhra Pradesh	   16,105	  2,741,239
 
 Agra	       Uttar Pradesh	    4,041	  4,418,797
@@ -28,4 +29,10 @@ Agra	       Uttar Pradesh	    4,041	  4,418,797
 Ahmadabad	   Gujarat	          8,107	   7,214,225
 
 Ahmadnagar   Maharashtra	      17,048	 4,543,159
+
 Aizawl	     Mizoram	           3,576	 400,309
+
+### Purpose
+Understanding the demographic landscape of India is crucial for informed decision-making in areas such as public policy, resource allocation, and social development. The purpose of this project is to utilize SQL queries to analyze census data, providing valuable insights into population trends, literacy rates, and growth patterns at both the state and district levels.
+
+
